@@ -1,5 +1,5 @@
 # laptops
-some laptops i will choose for programming, gaming and learning
+some laptops i will choose for programming, gaming and study.
 
 
 # laptop from Brazil
